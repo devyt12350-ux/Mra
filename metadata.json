@@ -1,0 +1,8 @@
+{
+  "name": "MRS Mira Road School",
+  "description": "A comprehensive school portal featuring a class diary, announcements, timetable, assignments, school code verification, and a teacher-student messaging portal with push notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
